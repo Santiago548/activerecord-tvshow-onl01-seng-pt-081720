@@ -1,4 +1,4 @@
 class CreateShows < ActiveRecord::Migration[5.2]
-  create_table 
+  create_table
 
 end
